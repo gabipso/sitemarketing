@@ -1,5 +1,6 @@
 <h1>Site de marketing criativo</h1>
 <p>> O objetivo desse projeto é de treinamento em Landing Pages utilizando HTML e CSS. </p>
+<p>> É uma pagina responsiva, se adequa a diferentes tamanhos de tela.</p>
  <p>> Previa do site:</p>(https://github.com/user-attachments/assets/7f2ed029-25ea-4359-9aa6-18be5f4bd498)
 
 ## Tecnologias
